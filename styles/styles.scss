@@ -1,6 +1,6 @@
 $bgcolor-ppal: #F5F7FA;
 $bgcolor-aside: #1E2939;
-$bgcolor-cont-ppal: white;
+$bgcolor-cont-ppal: rgb(255, 255, 255);
 $color-texto: black;
 $color-texto-aside: white;
 $color-texto-empresa: #FB6D3A;
@@ -29,7 +29,7 @@ body {
 /* -------------------------------------------------- */
 .info-general {
     padding: 100px 88px;
-    width: auto;
+    // width: auto;
 }
 
 /* Descripción */
@@ -137,8 +137,8 @@ a:hover {
 .info-lateral {
     background-color: $bgcolor-aside;
     padding: 40px 0px;
-    width: 300px;
-    margin-left: 0px;
+    // width: 300px;
+    // margin-left: 0px;
 }
 
 .contactos, .habilidades-tecnicas, .habilidades-blandas {

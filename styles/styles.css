@@ -9,7 +9,7 @@ body {
 .contenedor-principal {
   display: flex;
   flex-direction: row-reverse;
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   width: 1200px;
   margin: 40px auto;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.3);
@@ -19,7 +19,6 @@ body {
 /* -------------------------------------------------- */
 .info-general {
   padding: 100px 88px;
-  width: auto;
 }
 
 /* Descripción */
@@ -126,8 +125,6 @@ a:hover {
 .info-lateral {
   background-color: #1E2939;
   padding: 40px 0px;
-  width: 300px;
-  margin-left: 0px;
 }
 
 .contactos, .habilidades-tecnicas, .habilidades-blandas {

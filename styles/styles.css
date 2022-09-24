@@ -184,7 +184,7 @@ a:hover {
 @media screen and (max-width: 480px) {
   .contenedor-principal {
     flex-direction: column;
-    width: 3800px;
+    width: 380px;
     margin: 40px 10px;
   }
   .info-general {

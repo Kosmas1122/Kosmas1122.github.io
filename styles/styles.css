@@ -201,6 +201,6 @@ a:hover {
     width: 350px;
   }
   .info-lateral {
-    width: 300px;
+    width: auto;
   }
 }/*# sourceMappingURL=styles.css.map */

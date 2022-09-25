@@ -192,10 +192,6 @@ a:hover {
     line-height: 24px;
 }
 
-
-
-
-
 /*Responsive*/
 @media screen and (max-width: 480px) {
     .contenedor-principal {
@@ -222,6 +218,6 @@ a:hover {
     }
 
     .info-lateral {
-        width: 300px;
+        width: auto; // 300px
     }
 }

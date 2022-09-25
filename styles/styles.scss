@@ -196,7 +196,7 @@ a:hover {
 @media screen and (max-width: 480px) {
     .contenedor-principal {
         flex-direction: column;
-        width: 380px; //auto
+        width: 380px;
         margin: 40px 10px;
     }
 
@@ -220,6 +220,4 @@ a:hover {
     .info-lateral {
         width: 300px;
     }
-
-    img {width: auto;}
 }
